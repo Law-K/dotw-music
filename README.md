@@ -1,2 +1,4 @@
 # dotw-music
-Final Project for DOTW
+## Final Project for DOTW
+
+The final project is, for me, a way to express an appreciation for music. With 3 different webpages that use animation to show different realms of music, I hope to create some connection between the viewer and music, even if there may not be any music playing. While I do want to add music to one of the pages, the other pages should have similar impacts, as if music was playing. The colors that the website pages are called are the colors I want the viewer to see when I display the type of music with visual represntations. With blue, I want to show the piano and its notes, while with green, I think of scales and film, most notably *The Sound of Music*. Finally, with red, I hope to show the vivacious spirit of the classical string instruments. Each page will have some form of musical note as its highlight, but each in its own unique way. CSS Animation seems most appropriate for the simple animations I want to go through, with mostly subtle movements and appearing/disappearing notes on the page.

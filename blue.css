@@ -8,7 +8,7 @@ div.img img{
 }
 
 body{
-	background-color: black;
+	background-color: white;
 }
 
 div.img img:hover{
@@ -23,11 +23,13 @@ div.img img:hover{
     overflow: hidden
 }
 
-#blue img{
+#sheet img{
     min-width: 100%;
-    min-height: 100%;
-	width: auto;
-	height: auto;
+	width: 100%;
+}
+
+#note img{
+	clear: both;
 }
 
 #red{
