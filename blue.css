@@ -1,0 +1,45 @@
+div.img img{
+	display: block;
+	margin: auto;
+	transition-property: transform;
+	transition-duration: 1s;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+body{
+	background-color: black;
+}
+
+div.img img:hover{
+	transform: scale(0.7, 0.7) rotate(20deg);
+}
+#blue{
+	width:80%;
+	height: 100%;
+	float: left;
+	display: flex;
+    justify-content: center;
+    overflow: hidden
+}
+
+#blue img{
+    min-width: 100%;
+    min-height: 100%;
+	width: auto;
+	height: auto;
+}
+
+#red{
+	background-color: red;
+	width: 10%;
+	height: 100%;
+	float: right;
+}
+
+#green{
+	background-color: green;
+	width: 10%;
+	height: 100%;
+	float: right;
+}
